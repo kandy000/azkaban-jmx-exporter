@@ -3,7 +3,6 @@
 lowercaseOutputName: true
 lowercaseOutputLabelNames: true
 whitelistObjectNames:
-  - "java.lang:*"
   - "azkaban.execapp.jmx.JmxFlowRunnerManager:*"
   - "azkaban.execapp.jmx.JmxJobCallback:*"
   - "azkaban.execapp.jmx.JmxJobMBeanManager:*"
